@@ -1,5 +1,5 @@
 ﻿//Griffin Parker
-//October 18, 2022
+//October 19, 2022
 //Mini Challenge #6 Remastered - Odd or Even
 //This program takes a user's input, makes sure it's a number, and then tells the user if the number is odd or even
 
@@ -70,7 +70,7 @@ static void Even(string space)
 }
 static void Odd(string space)
 {
-        Console.WriteLine("          This number is  ");
+        Console.WriteLine("            This number is  ");
         Console.WriteLine($"             {space}       ▄▄  {space}       ▄▄");
         Console.WriteLine($"  ▄▄█▀▀██▄   {space}     ▀███  {space}     ▀███");
         Console.WriteLine($"▄██▀    ▀██▄ {space}       ██  {space}       ██");
