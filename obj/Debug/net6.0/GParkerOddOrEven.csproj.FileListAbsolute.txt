@@ -1,0 +1,15 @@
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\bin\Debug\net6.0\GParkerOddOrEven.exe
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\bin\Debug\net6.0\GParkerOddOrEven.deps.json
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\bin\Debug\net6.0\GParkerOddOrEven.runtimeconfig.json
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\bin\Debug\net6.0\GParkerOddOrEven.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\bin\Debug\net6.0\GParkerOddOrEven.pdb
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.csproj.AssemblyReference.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.AssemblyInfoInputs.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.AssemblyInfo.cs
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.csproj.CoreCompileInputs.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\refint\GParkerOddOrEven.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.pdb
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\GParkerOddOrEven.genruntimeconfig.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerOddOrEven\obj\Debug\net6.0\ref\GParkerOddOrEven.dll
