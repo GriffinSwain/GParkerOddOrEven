@@ -21,7 +21,7 @@ if (numTest = Int32.TryParse(num, out validNum)){
     for(int i = space.Length - 1; i >= 0; i--)   
     { 
     Console.Clear();    
-    Even(space);
+    Even(space, validNum);
     Thread.Sleep(100);
     space = space.Remove(i);
     }                         
@@ -31,7 +31,7 @@ if (numTest = Int32.TryParse(num, out validNum)){
     for(int i = space.Length - 1; i >= 1; i--)   
     { 
     Console.Clear();    
-    Odd(space);
+    Odd(space, validNum);
     Thread.Sleep(100);
     space = space.Remove(i - 1);
     }          
@@ -56,9 +56,10 @@ if (numTest = Int32.TryParse(num, out validNum)){
     }
     }
 }
-static void Even(string space)
+static void Even(string space, int validNum)
 {
-        Console.WriteLine("             This number is");
+        Console.WriteLine($"            The number {validNum} is");
+        Console.WriteLine();
         Console.WriteLine($"▀███▀▀▀███"); 
         Console.WriteLine($"  ██    ▀█");
         Console.WriteLine($"  ██   █ {space}  ▀██▀   ▀██▀{space} ▄▄█▀██ {space} ▄██████▄");
@@ -68,9 +69,9 @@ static void Even(string space)
         Console.WriteLine($"▄██████████ {space}    █  {space}    ▀█████▀ {space}██    ██▄"); 
         Console.WriteLine();
 }
-static void Odd(string space)
+static void Odd(string space, int validNum)
 {
-        Console.WriteLine("            This number is  ");
+        Console.WriteLine($"          The number {validNum} is  ");
         Console.WriteLine($"             {space}       ▄▄  {space}       ▄▄");
         Console.WriteLine($"  ▄▄█▀▀██▄   {space}     ▀███  {space}     ▀███");
         Console.WriteLine($"▄██▀    ▀██▄ {space}       ██  {space}       ██");
@@ -79,5 +80,6 @@ static void Odd(string space)
         Console.WriteLine($"██▄      ▄██ {space}███    ██  {space}███    ██");
         Console.WriteLine($"▀██▄    ▄██▀ {space}▀██    ██  {space}▀██    ██");
         Console.WriteLine($"  ▀▀████▀▀   {space} ▀████▀███▄{space} ▀████▀███▄"); 
+        Console.WriteLine();
 }
 }
