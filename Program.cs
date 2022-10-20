@@ -2,6 +2,8 @@
 //October 19, 2022
 //Mini Challenge #6 Remastered - Odd or Even
 //This program takes a user's input, makes sure it's a number, and then tells the user if the number is odd or even
+//Peer review by Carlos Felipe: This program is nutty. I'm seeing animations in the terminal?! what is this Wizard craft?! Amazing project, all inputs 
+//are accounted for using data validation and I can play this amazing project as many times as I want. 10/10 would definitely play again once or twice.
 
 string num;
 string loop;
